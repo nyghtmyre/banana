@@ -1,0 +1,4 @@
+git clone https://github.com/titaniumnetwork-dev/Ultraviolet-App
+npm install
+git clone https://github.com/titaniumnetwork-dev/Ultraviolet-Static
+git clone https://github.com/titaniumnetwork-dev/Ultraviolet
